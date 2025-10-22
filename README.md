@@ -59,35 +59,11 @@
 ### ❌ "Execute o programa como Administrador"
 **Solução**: Clique com botão direito no executável > Executar como Administrador
 
-### ❌ "ModuleNotFoundError: No module named 'customtkinter'"
-**Solução**: 
-```bash
-pip install -r requirements.txt
-```
-
-### ❌ "tkinter not found"
-**Solução** (Windows):
-- Reinstale Python marcando "tcl/tk and IDLE"
-
-### ❌ Programa não abre
-**Solução**:
-1. Verifique se Python está instalado: `python --version`
-2. Execute pelo terminal para ver erros: `python ghost_optimizer.py`
-3. Certifique-se de estar como Administrador
 
 ### ❌ CS2 não detectado
 **Solução**:
 - Execute o CS2 antes de aplicar otimizações
 - Algumas otimizações funcionam mesmo com CS2 fechado
-
-### ❌ Erro ao criar executável
-**Solução**:
-```bash
-pip install --upgrade pyinstaller
-pyinstaller --clean --onefile --windowed ghost_optimizer.py
-```
-
----
 
 ## 📝 NOTAS IMPORTANTES
 
