@@ -102,7 +102,7 @@
 
 ## 📜 LICENÇA
 
-© 2024 Ghost Optimizer - Todos os direitos reservados
+© 2025 Ghost Optimizer - Todos os direitos reservados
 Uso exclusivo para membros da comunidade Ghost Optimizer
 
 **Tecnologias usadas:**
